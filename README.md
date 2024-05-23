@@ -1,4 +1,2 @@
-# new_login_app
-
-Aplicativo de Login, para preparação de um tutorial.
-
+Atividade Flutter - Tela de Login - Prof. Montanha
+Breno de Sousa Braga - 321222619
